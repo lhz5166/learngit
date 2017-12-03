@@ -6,3 +6,4 @@ Git tracks changes.
 Creat a new branch dev.
 Creat a new branch is quick AND easy.
 Test branch management.
+Test bug brunch.
